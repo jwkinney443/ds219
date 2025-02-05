@@ -1,0 +1,11 @@
+Hello!!
+
+I'm Jack (or formally John) Kinney.
+
+I'm a senior at Boston University pursuing a degree in Computer Science. 
+As a software engineer, I'm passionate about building innovative and practical solutions 
+that make everyday life easier and more enjoyable.
+
+It is hard to say exactly what my favorite course so far at Boston University has been.
+I love full stack development and handling large sets of data 
+so I have enjoyed the following a lot: CS391, CS411, CS412, CS506
